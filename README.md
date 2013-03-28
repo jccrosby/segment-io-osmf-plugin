@@ -101,8 +101,8 @@
 		</value>;
 
 ## To Do
-[ ] Implement page tacking
-[ ] Figure out a way to make the userID and sessionID dynamic
+[ ] Implement page tacking  
+[ ] Figure out a way to make the userID and sessionID dynamic  
 
 
 ## License  
