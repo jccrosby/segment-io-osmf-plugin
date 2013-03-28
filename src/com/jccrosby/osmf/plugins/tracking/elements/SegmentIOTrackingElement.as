@@ -1,15 +1,15 @@
-package com.realeyes.osmf.plugins.tracking.elements
+package com.jccrosby.osmf.plugins.tracking.elements
 {
 	import com.jccrosby.analytics.segmentio.Context;
-	import com.realeyes.osmf.plugins.tracking.SegmentIOPluginInfo;
-	import com.realeyes.osmf.plugins.tracking.SegmentIOTracker;
-	import com.realeyes.osmf.plugins.tracking.events.DurationMarkerEvent;
-	import com.realeyes.osmf.plugins.tracking.model.Configuration;
-	import com.realeyes.osmf.plugins.tracking.model.Marker;
-	import com.realeyes.osmf.plugins.tracking.model.TrackDefinition;
-	import com.realeyes.osmf.plugins.tracking.model.TrackTimeDefinition;
-	import com.realeyes.osmf.plugins.tracking.model.TrackType;
-	import com.realeyes.osmf.plugins.tracking.util.DurationTracker;
+	import com.jccrosby.osmf.plugins.tracking.SegmentIOPluginInfo;
+	import com.jccrosby.osmf.plugins.tracking.SegmentIOTracker;
+	import com.jccrosby.osmf.plugins.tracking.events.DurationMarkerEvent;
+	import com.jccrosby.osmf.plugins.tracking.model.Configuration;
+	import com.jccrosby.osmf.plugins.tracking.model.Marker;
+	import com.jccrosby.osmf.plugins.tracking.model.TrackDefinition;
+	import com.jccrosby.osmf.plugins.tracking.model.TrackTimeDefinition;
+	import com.jccrosby.osmf.plugins.tracking.model.TrackType;
+	import com.jccrosby.osmf.plugins.tracking.util.DurationTracker;
 	
 	import flash.display.DisplayObject;
 	import flash.events.TimerEvent;

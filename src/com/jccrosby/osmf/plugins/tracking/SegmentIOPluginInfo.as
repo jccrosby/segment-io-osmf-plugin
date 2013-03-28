@@ -1,7 +1,7 @@
-package com.realeyes.osmf.plugins.tracking
+package com.jccrosby.osmf.plugins.tracking
 {
-	import com.realeyes.osmf.plugins.tracking.elements.SegmentIOTrackingElement;
-	import com.realeyes.osmf.plugins.tracking.model.Configuration;
+	import com.jccrosby.osmf.plugins.tracking.elements.SegmentIOTrackingElement;
+	import com.jccrosby.osmf.plugins.tracking.model.Configuration;
 	
 	import org.osmf.media.MediaElement;
 	import org.osmf.media.MediaFactoryItem;

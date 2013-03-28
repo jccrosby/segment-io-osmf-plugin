@@ -1,6 +1,6 @@
-package com.realeyes.osmf.plugins.tracking.events
+package com.jccrosby.osmf.plugins.tracking.events
 {
-	import com.realeyes.osmf.plugins.tracking.model.Marker;
+	import com.jccrosby.osmf.plugins.tracking.model.Marker;
 	
 	import flash.events.Event;
 	

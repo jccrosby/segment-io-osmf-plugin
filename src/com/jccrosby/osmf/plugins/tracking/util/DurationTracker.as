@@ -1,13 +1,13 @@
-package com.realeyes.osmf.plugins.tracking.util
+package com.jccrosby.osmf.plugins.tracking.util
 {
-	import com.realeyes.osmf.plugins.tracking.events.DurationMarkerEvent;
-	import com.realeyes.osmf.plugins.tracking.model.Marker;
+	import com.jccrosby.osmf.plugins.tracking.events.DurationMarkerEvent;
+	import com.jccrosby.osmf.plugins.tracking.model.Marker;
 	
 	import flash.events.EventDispatcher;
 	
-	[Event( name="timeMarker", type="com.realeyes.osmf.plugins.tracking.events.DurationMarkerEvent" )]
-	[Event( name="percentMarker", type="com.realeyes.osmf.plugins.tracking.events.DurationMarkerEvent" )]
-	[Event( name="completeMarker", type="com.realeyes.osmf.plugins.tracking.events.DurationMarkerEvent" )]
+	[Event( name="timeMarker", type="com.jccrosby.osmf.plugins.tracking.events.DurationMarkerEvent" )]
+	[Event( name="percentMarker", type="com.jccrosby.osmf.plugins.tracking.events.DurationMarkerEvent" )]
+	[Event( name="completeMarker", type="com.jccrosby.osmf.plugins.tracking.events.DurationMarkerEvent" )]
 	public class DurationTracker extends EventDispatcher
 	{
 		//////////////////////////////////////

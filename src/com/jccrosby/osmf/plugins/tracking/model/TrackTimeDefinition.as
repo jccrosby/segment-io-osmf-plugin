@@ -1,4 +1,4 @@
-package com.realeyes.osmf.plugins.tracking.model
+package com.jccrosby.osmf.plugins.tracking.model
 {
 	public class TrackTimeDefinition extends TrackDefinition
 	{

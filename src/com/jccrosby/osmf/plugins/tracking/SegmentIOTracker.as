@@ -1,4 +1,4 @@
-package com.realeyes.osmf.plugins.tracking
+package com.jccrosby.osmf.plugins.tracking
 {
 	import com.jccrosby.analytics.segmentio.AnalyticsClient;
 	import com.jccrosby.analytics.segmentio.Context;

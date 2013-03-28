@@ -1,8 +1,8 @@
-package com.realeyes.osmf.plugins.tracking.model
+package com.jccrosby.osmf.plugins.tracking.model
 {
-	import com.realeyes.osmf.plugins.tracking.model.Marker;
-	import com.realeyes.osmf.plugins.tracking.model.TrackDefinition;
-	import com.realeyes.osmf.plugins.tracking.model.TrackTimeDefinition;
+	import com.jccrosby.osmf.plugins.tracking.model.Marker;
+	import com.jccrosby.osmf.plugins.tracking.model.TrackDefinition;
+	import com.jccrosby.osmf.plugins.tracking.model.TrackTimeDefinition;
 	
 	import flash.utils.Dictionary;
 
