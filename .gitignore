@@ -1,0 +1,14 @@
+.settings
+bin/
+bin-debug/
+bin-release/
+.project
+.actionScriptProperties
+html-template/history
+html-template
+html-template/history/history.css
+html-template/history/history.js
+html-template/history/historyFrame.html
+html-template/index.template.html
+html-template/playerProductInstall.swf
+html-template/swfobject.js
