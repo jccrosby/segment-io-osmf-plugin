@@ -106,7 +106,7 @@
 
 
 ## License  
-Author: John Crosby  
+Author: John Crosby <jccrosby@gmail.com>
 [http://thekuroko.com](http://thekuroko.com)  
 Copyright &copy; 2013 John Crosby  
 
